@@ -6,15 +6,7 @@ bus_is
 </name>
 </assembly>
 <members>
-<member name="M:bus_is.MainWindow.InitializeComponent">
-	<summary>
-InitializeComponent
-</summary>
-</member><member name="T:bus_is.MainWindow">
-	<summary>
-MainWindow
-</summary>
-</member><member name="M:bus_is.Application.InitializeComponent">
+<member name="M:bus_is.Application.InitializeComponent">
 	<summary>
 InitializeComponent
 </summary>
@@ -26,18 +18,13 @@ Application Entry Point.
 	<summary>
 Application
 </summary>
-</member><member name="P:bus_is.My.Resources.Resources.ResourceManager">
+</member><member name="M:bus_is.MainWindow.InitializeComponent">
 	<summary>
-  Returns the cached ResourceManager instance used by this class.
+InitializeComponent
 </summary>
-</member><member name="P:bus_is.My.Resources.Resources.Culture">
+</member><member name="T:bus_is.MainWindow">
 	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:bus_is.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
+MainWindow
 </summary>
 </member><member name="P:bus_is.My.MyWpfExtension.Application">
 	<summary>
@@ -65,6 +52,19 @@ Application
  Module used to define the properties that are available in the My Namespace for WPF
  </summary>
 	<remarks></remarks>
+</member><member name="P:bus_is.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:bus_is.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:bus_is.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member>
 </members>
 </doc>
