@@ -26,12 +26,12 @@
         </asp:Panel>
     </div>
     <div>
-        <asp:Panel ID="Panel2" runat="server" Height="480px" BackColor="LightGray">
+        <asp:Panel ID="Panel2" runat="server" Height="480px" BackColor="lightblue">
             <div style="padding:10px 10px 10px 40px;">
                 <h3>ข้อมูลการเดินทาง</h3>
             </div>
             
-            <div style="background-color:LightBlue; padding:10px 10px 10px 10px; width:480px; margin-left:100px ">
+            <div style="background-color:white; padding:10px 10px 10px 10px; width:480px; margin-left:100px ">
                     
                 <div style="padding-top:10px;">
                     <asp:Label ID="lbCountry" runat="server" Text="จังหวัดปลายทาง"></asp:Label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
