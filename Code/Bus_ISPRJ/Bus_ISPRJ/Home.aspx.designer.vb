@@ -104,15 +104,6 @@ Partial Public Class WebForm1
     Protected WithEvents lbCountry As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''lbCountrySP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbCountrySP As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''ddlCountry control.
     '''</summary>
     '''<remarks>

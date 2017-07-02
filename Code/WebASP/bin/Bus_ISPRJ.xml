@@ -6,143 +6,7 @@ Bus_ISPRJ
 </name>
 </assembly>
 <members>
-<member name="F:Bus_ISPRJ.About.lbName">
-	<summary>
-lbName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.lbNameSP">
-	<summary>
-lbNameSP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.txbName">
-	<summary>
-txbName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.lbSurename">
-	<summary>
-lbSurename control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.lbSurenameSP">
-	<summary>
-lbSurenameSP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.txbContact">
-	<summary>
-txbContact control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.lbGender">
-	<summary>
-lbGender control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.lbGenderSP">
-	<summary>
-lbGenderSP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.RadioButton1">
-	<summary>
-RadioButton1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.lbMale">
-	<summary>
-lbMale control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.RadioButton2">
-	<summary>
-RadioButton2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.lbFemale">
-	<summary>
-lbFemale control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.Label1">
-	<summary>
-Label1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.Label2">
-	<summary>
-Label2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.TextBox1">
-	<summary>
-TextBox1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.About.Button1">
-	<summary>
-Button1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.ManageCarSTD.form1">
-	<summary>
-form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.Register.RegisterUser">
+<member name="F:Bus_ISPRJ.Register.RegisterUser">
 	<summary>
 RegisterUser control.
 </summary>
@@ -158,64 +22,7 @@ RegisterUserWizardStep control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Login.RegisterHyperLink">
-	<summary>
-RegisterHyperLink control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.Login.OpenAuthLogin">
-	<summary>
-OpenAuthLogin control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.RegisterExternalLogin.userNameForm">
-	<summary>
-userNameForm control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.RegisterExternalLogin.userName">
-	<summary>
-userName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="P:Bus_ISPRJ.My.MyWebExtension.Computer">
-	<summary>
- Returns information about the host computer.
- </summary>
-</member><member name="P:Bus_ISPRJ.My.MyWebExtension.User">
-	<summary>
- Returns information for the current Web user.
- </summary>
-</member><member name="P:Bus_ISPRJ.My.MyWebExtension.Request">
-	<summary>
- Returns Request object.
- </summary>
-</member><member name="P:Bus_ISPRJ.My.MyWebExtension.Response">
-	<summary>
- Returns Response object.
- </summary>
-</member><member name="P:Bus_ISPRJ.My.MyWebExtension.Log">
-	<summary>
- Returns the Asp log object.
- </summary>
-</member><member name="T:Bus_ISPRJ.My.MyWebExtension">
-	<summary>
- Module used to define the properties that are available in the My Namespace for Web projects.
- </summary>
-	<remarks></remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.form1">
+</member><member name="F:Bus_ISPRJ.Information.form1">
 	<summary>
 form1 control.
 </summary>
@@ -223,7 +30,7 @@ form1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink1">
+</member><member name="F:Bus_ISPRJ.Information.HyperLink1">
 	<summary>
 HyperLink1 control.
 </summary>
@@ -231,7 +38,7 @@ HyperLink1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink2">
+</member><member name="F:Bus_ISPRJ.Information.HyperLink2">
 	<summary>
 HyperLink2 control.
 </summary>
@@ -239,7 +46,7 @@ HyperLink2 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink3">
+</member><member name="F:Bus_ISPRJ.Information.HyperLink3">
 	<summary>
 HyperLink3 control.
 </summary>
@@ -247,7 +54,7 @@ HyperLink3 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink4">
+</member><member name="F:Bus_ISPRJ.Information.HyperLink4">
 	<summary>
 HyperLink4 control.
 </summary>
@@ -255,7 +62,7 @@ HyperLink4 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink5">
+</member><member name="F:Bus_ISPRJ.Information.HyperLink5">
 	<summary>
 HyperLink5 control.
 </summary>
@@ -263,7 +70,7 @@ HyperLink5 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink6">
+</member><member name="F:Bus_ISPRJ.Information.HyperLink6">
 	<summary>
 HyperLink6 control.
 </summary>
@@ -271,7 +78,7 @@ HyperLink6 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.Panel1">
+</member><member name="F:Bus_ISPRJ.Information.Panel1">
 	<summary>
 Panel1 control.
 </summary>
@@ -279,7 +86,7 @@ Panel1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.Panel2">
+</member><member name="F:Bus_ISPRJ.Information.Panel2">
 	<summary>
 Panel2 control.
 </summary>
@@ -287,7 +94,7 @@ Panel2 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.lbName">
+</member><member name="F:Bus_ISPRJ.Information.lbName">
 	<summary>
 lbName control.
 </summary>
@@ -295,7 +102,7 @@ lbName control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.lbNameSP">
+</member><member name="F:Bus_ISPRJ.Information.lbNameSP">
 	<summary>
 lbNameSP control.
 </summary>
@@ -303,23 +110,15 @@ lbNameSP control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.lvTicket">
+</member><member name="F:Bus_ISPRJ.Information.txbName">
 	<summary>
-lvTicket control.
+txbName control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.btnOK">
-	<summary>
-btnOK control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.lbSurename">
+</member><member name="F:Bus_ISPRJ.Information.lbSurename">
 	<summary>
 lbSurename control.
 </summary>
@@ -327,175 +126,79 @@ lbSurename control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.CheckNoTicket.Label1">
+</member><member name="F:Bus_ISPRJ.Information.lbSurenameSP">
 	<summary>
-Label1 control.
+lbSurenameSP control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.form1">
+</member><member name="F:Bus_ISPRJ.Information.txbSurename">
 	<summary>
-form1 control.
+txbSurename control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink1">
+</member><member name="F:Bus_ISPRJ.Information.lbGender">
 	<summary>
-HyperLink1 control.
+lbGender control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink2">
+</member><member name="F:Bus_ISPRJ.Information.lbGenderSP">
 	<summary>
-HyperLink2 control.
+lbGenderSP control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink3">
+</member><member name="F:Bus_ISPRJ.Information.rbMale">
 	<summary>
-HyperLink3 control.
+rbMale control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink4">
+</member><member name="F:Bus_ISPRJ.Information.rbFemale">
 	<summary>
-HyperLink4 control.
+rbFemale control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink5">
+</member><member name="F:Bus_ISPRJ.Information.lbEmail">
 	<summary>
-HyperLink5 control.
+lbEmail control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink6">
+</member><member name="F:Bus_ISPRJ.Information.lbEmailSP">
 	<summary>
-HyperLink6 control.
+lbEmailSP control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.Panel1">
+</member><member name="F:Bus_ISPRJ.Information.txbEmail">
 	<summary>
-Panel1 control.
+txbEmail control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.Panel2">
-	<summary>
-Panel2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.lbCountry">
-	<summary>
-lbCountry control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.lbCountrySP">
-	<summary>
-lbCountrySP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.ddlCountry">
-	<summary>
-ddlCountry control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.lbBustype">
-	<summary>
-lbBustype control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.lbBustypeSP">
-	<summary>
-lbBustypeSP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.ddlBustype">
-	<summary>
-ddlBustype control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.lbTime">
-	<summary>
-lbTime control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.lbTimeSP">
-	<summary>
-lbTimeSP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.ddlTime">
-	<summary>
-ddlTime control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.lbDate">
-	<summary>
-lbDate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.lbDateSP">
-	<summary>
-lbDateSP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.WebForm1.btnOK">
+</member><member name="F:Bus_ISPRJ.Information.btnOK">
 	<summary>
 btnOK control.
 </summary>
@@ -695,28 +398,103 @@ btnOK2 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="P:Bus_ISPRJ.My.Resources.Resources.ResourceManager">
+</member><member name="F:Bus_ISPRJ.RegisterExternalLogin.userNameForm">
 	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:Bus_ISPRJ.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:Bus_ISPRJ.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="F:Bus_ISPRJ.Contact.ListView1">
-	<summary>
-ListView1 control.
+userNameForm control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Contact.Button1">
+</member><member name="F:Bus_ISPRJ.RegisterExternalLogin.userName">
+	<summary>
+userName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.lbDate">
+	<summary>
+lbDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.lbDateSP">
+	<summary>
+lbDateSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.lbTime">
+	<summary>
+lbTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.lbTimeSP">
+	<summary>
+lbTimeSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.lbCountry">
+	<summary>
+lbCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.lbCountrySP">
+	<summary>
+lbCountrySP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.txbCountry">
+	<summary>
+txbCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.lbBustype">
+	<summary>
+lbBustype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.lbBustypeSP">
+	<summary>
+lbBustypeSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.ddlBustype">
+	<summary>
+ddlBustype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ._Default.Button1">
 	<summary>
 Button1 control.
 </summary>
@@ -724,9 +502,361 @@ Button1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Contact.ListView2">
+</member><member name="F:Bus_ISPRJ.Login.RegisterHyperLink">
 	<summary>
-ListView2 control.
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.Login.OpenAuthLogin">
+	<summary>
+OpenAuthLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink1">
+	<summary>
+HyperLink1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink3">
+	<summary>
+HyperLink3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink4">
+	<summary>
+HyperLink4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink5">
+	<summary>
+HyperLink5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.HyperLink6">
+	<summary>
+HyperLink6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.Panel2">
+	<summary>
+Panel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.lbName">
+	<summary>
+lbName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.lbNameSP">
+	<summary>
+lbNameSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.lvTicket">
+	<summary>
+lvTicket control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.btnOK">
+	<summary>
+btnOK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.lbSurename">
+	<summary>
+lbSurename control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.CheckNoTicket.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.Manage.successMessage">
+	<summary>
+successMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.Manage.setPassword">
+	<summary>
+setPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.Manage.password">
+	<summary>
+password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.Manage.confirmPassword">
+	<summary>
+confirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.Manage.changePassword">
+	<summary>
+changePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink1">
+	<summary>
+HyperLink1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink2">
+	<summary>
+HyperLink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink3">
+	<summary>
+HyperLink3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink4">
+	<summary>
+HyperLink4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink5">
+	<summary>
+HyperLink5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.HyperLink6">
+	<summary>
+HyperLink6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.Panel2">
+	<summary>
+Panel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.lbCountry">
+	<summary>
+lbCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.ddlCountry">
+	<summary>
+ddlCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.lbBustype">
+	<summary>
+lbBustype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.lbBustypeSP">
+	<summary>
+lbBustypeSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.ddlBustype">
+	<summary>
+ddlBustype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.lbTime">
+	<summary>
+lbTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.lbTimeSP">
+	<summary>
+lbTimeSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.ddlTime">
+	<summary>
+ddlTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.lbDate">
+	<summary>
+lbDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.lbDateSP">
+	<summary>
+lbDateSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.WebForm1.btnOK">
+	<summary>
+btnOK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.SiteMaster.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.SiteMaster.FeaturedContent">
+	<summary>
+FeaturedContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.SiteMaster.MainContent">
+	<summary>
+MainContent control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -860,6 +990,134 @@ lvCar control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member><member name="F:Bus_ISPRJ.About.lbName">
+	<summary>
+lbName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.lbNameSP">
+	<summary>
+lbNameSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.txbName">
+	<summary>
+txbName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.lbSurename">
+	<summary>
+lbSurename control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.lbSurenameSP">
+	<summary>
+lbSurenameSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.txbContact">
+	<summary>
+txbContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.lbGender">
+	<summary>
+lbGender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.lbGenderSP">
+	<summary>
+lbGenderSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.RadioButton1">
+	<summary>
+RadioButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.lbMale">
+	<summary>
+lbMale control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.RadioButton2">
+	<summary>
+RadioButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.lbFemale">
+	<summary>
+lbFemale control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.TextBox1">
+	<summary>
+TextBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.About.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="F:Bus_ISPRJ.OpenAuthProviders.providerDetails">
 	<summary>
 providerDetails control.
@@ -868,87 +1126,15 @@ providerDetails control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ._Default.lbDate">
+</member><member name="F:Bus_ISPRJ.Contact.ListView1">
 	<summary>
-lbDate control.
+ListView1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ._Default.lbDateSP">
-	<summary>
-lbDateSP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ._Default.lbTime">
-	<summary>
-lbTime control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ._Default.lbTimeSP">
-	<summary>
-lbTimeSP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ._Default.lbCountry">
-	<summary>
-lbCountry control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ._Default.lbCountrySP">
-	<summary>
-lbCountrySP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ._Default.txbCountry">
-	<summary>
-txbCountry control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ._Default.lbBustype">
-	<summary>
-lbBustype control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ._Default.lbBustypeSP">
-	<summary>
-lbBustypeSP control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ._Default.ddlBustype">
-	<summary>
-ddlBustype control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ._Default.Button1">
+</member><member name="F:Bus_ISPRJ.Contact.Button1">
 	<summary>
 Button1 control.
 </summary>
@@ -956,7 +1142,15 @@ Button1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.form1">
+</member><member name="F:Bus_ISPRJ.Contact.ListView2">
+	<summary>
+ListView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.form1">
 	<summary>
 form1 control.
 </summary>
@@ -964,7 +1158,7 @@ form1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.HyperLink1">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.HyperLink1">
 	<summary>
 HyperLink1 control.
 </summary>
@@ -972,7 +1166,7 @@ HyperLink1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.HyperLink2">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.HyperLink2">
 	<summary>
 HyperLink2 control.
 </summary>
@@ -980,7 +1174,7 @@ HyperLink2 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.HyperLink3">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.HyperLink3">
 	<summary>
 HyperLink3 control.
 </summary>
@@ -988,7 +1182,7 @@ HyperLink3 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.HyperLink4">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.HyperLink4">
 	<summary>
 HyperLink4 control.
 </summary>
@@ -996,7 +1190,7 @@ HyperLink4 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.HyperLink5">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.HyperLink5">
 	<summary>
 HyperLink5 control.
 </summary>
@@ -1004,7 +1198,7 @@ HyperLink5 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.HyperLink6">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.HyperLink6">
 	<summary>
 HyperLink6 control.
 </summary>
@@ -1012,7 +1206,7 @@ HyperLink6 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.Panel1">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Panel1">
 	<summary>
 Panel1 control.
 </summary>
@@ -1020,7 +1214,7 @@ Panel1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.Panel2">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Panel2">
 	<summary>
 Panel2 control.
 </summary>
@@ -1028,23 +1222,47 @@ Panel2 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.lbName">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.lbZone">
 	<summary>
-lbName control.
+lbZone control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.lbNameSP">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.lbZoneSP">
 	<summary>
-lbNameSP control.
+lbZoneSP control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.txbName">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.lbRoute">
+	<summary>
+lbRoute control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.lbRouteSP">
+	<summary>
+lbRouteSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.txbName">
 	<summary>
 txbName control.
 </summary>
@@ -1052,87 +1270,199 @@ txbName control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.lbSurename">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.lbCountry">
 	<summary>
-lbSurename control.
+lbCountry control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.lbSurenameSP">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.lbCountrySP">
 	<summary>
-lbSurenameSP control.
+lbCountrySP control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.txbSurename">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.ddlCountry">
 	<summary>
-txbSurename control.
+ddlCountry control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.lbGender">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label1">
 	<summary>
-lbGender control.
+Label1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.lbGenderSP">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label2">
 	<summary>
-lbGenderSP control.
+Label2 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.rbMale">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Textbox1">
 	<summary>
-rbMale control.
+Textbox1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.rbFemale">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label3">
 	<summary>
-rbFemale control.
+Label3 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.lbEmail">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label4">
 	<summary>
-lbEmail control.
+Label4 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.lbEmailSP">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.DropDownList2">
 	<summary>
-lbEmailSP control.
+DropDownList2 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.txbEmail">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label5">
 	<summary>
-txbEmail control.
+Label5 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Information.btnOK">
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Textbox2">
+	<summary>
+Textbox2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.DropDownList3">
+	<summary>
+DropDownList3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Textbox3">
+	<summary>
+Textbox3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.Textbox4">
+	<summary>
+Textbox4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.btnCheck">
+	<summary>
+btnCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.btnAdd">
+	<summary>
+btnAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.lbName">
+	<summary>
+lbName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.lbNameSP">
+	<summary>
+lbNameSP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.lvTypeSTD">
+	<summary>
+lvTypeSTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bus_ISPRJ.ManageCarSTD.btnOK">
 	<summary>
 btnOK control.
 </summary>
@@ -1140,70 +1470,44 @@ btnOK control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Bus_ISPRJ.Manage.successMessage">
+</member><member name="P:Bus_ISPRJ.My.MyWebExtension.Computer">
 	<summary>
-successMessage control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.Manage.setPassword">
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Bus_ISPRJ.My.MyWebExtension.User">
 	<summary>
-setPassword control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.Manage.password">
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Bus_ISPRJ.My.MyWebExtension.Request">
 	<summary>
-password control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.Manage.confirmPassword">
+ Returns Request object.
+ </summary>
+</member><member name="P:Bus_ISPRJ.My.MyWebExtension.Response">
 	<summary>
-confirmPassword control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.Manage.changePassword">
+ Returns Response object.
+ </summary>
+</member><member name="P:Bus_ISPRJ.My.MyWebExtension.Log">
 	<summary>
-changePassword control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.SiteMaster.HeadContent">
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Bus_ISPRJ.My.MyWebExtension">
 	<summary>
-HeadContent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.SiteMaster.FeaturedContent">
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Bus_ISPRJ.My.Resources.Resources.ResourceManager">
 	<summary>
-FeaturedContent control.
+  Returns the cached ResourceManager instance used by this class.
 </summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Bus_ISPRJ.SiteMaster.MainContent">
+</member><member name="P:Bus_ISPRJ.My.Resources.Resources.Culture">
 	<summary>
-MainContent control.
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
 </summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
+</member><member name="T:Bus_ISPRJ.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member>
 </members>
 </doc>
