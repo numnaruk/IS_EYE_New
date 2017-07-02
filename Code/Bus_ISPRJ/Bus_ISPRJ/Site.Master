@@ -38,7 +38,8 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p class="site-title">
-                    <a href="~/">P</a>roject of Information Systems</p>
+                   <a href="http://www.yahoo.com" style="color: orange">บขส</a>
+               
             </div>
             <div class="float-right">
                 <nav>
@@ -46,6 +47,7 @@
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a runat="server" href="~/About.aspx">Information</a></li>
                         <li><a runat="server" href="~/Contact.aspx">Managing Bus</a></li>
+                        <li><a id="A1" runat="server" href="~/Contact.aspx">Managing Car</a></li>
                     </ul>
                 </nav>
             </div>
