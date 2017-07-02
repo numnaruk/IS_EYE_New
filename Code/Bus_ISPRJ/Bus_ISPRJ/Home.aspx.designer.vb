@@ -11,12 +11,9 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class About
+Partial Public Class WebForm1
 
     '''<summary>
-<<<<<<< HEAD
-    '''lbCountry control.
-=======
     '''Page1 control.
     '''</summary>
     '''<remarks>
@@ -90,26 +87,21 @@ Partial Public Class About
 
     '''<summary>
     '''pnData control.
->>>>>>> 18d4d6519a022eb1d3b8c8fbb42c99f3cf78e2ce
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-<<<<<<< HEAD
-    Protected WithEvents lbCountry As Global.System.Web.UI.WebControls.Label
-=======
     Protected WithEvents pnData As Global.System.Web.UI.WebControls.Panel
->>>>>>> 18d4d6519a022eb1d3b8c8fbb42c99f3cf78e2ce
 
     '''<summary>
-    '''Label3 control.
+    '''lbCountry control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Label3 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lbCountry As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''ddlCountry control.
