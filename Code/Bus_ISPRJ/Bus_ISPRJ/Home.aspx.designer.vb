@@ -14,13 +14,93 @@ Option Explicit On
 Partial Public Class About
 
     '''<summary>
+<<<<<<< HEAD
     '''lbCountry control.
+=======
+    '''Page1 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
+    Protected WithEvents Page1 As Global.System.Web.UI.HtmlControls.HtmlForm
+
+    '''<summary>
+    '''HyperLink1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents HyperLink1 As Global.System.Web.UI.WebControls.HyperLink
+
+    '''<summary>
+    '''HyperLink2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents HyperLink2 As Global.System.Web.UI.WebControls.HyperLink
+
+    '''<summary>
+    '''HyperLink3 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents HyperLink3 As Global.System.Web.UI.WebControls.HyperLink
+
+    '''<summary>
+    '''HyperLink4 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents HyperLink4 As Global.System.Web.UI.WebControls.HyperLink
+
+    '''<summary>
+    '''HyperLink5 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents HyperLink5 As Global.System.Web.UI.WebControls.HyperLink
+
+    '''<summary>
+    '''HyperLink6 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents HyperLink6 As Global.System.Web.UI.WebControls.HyperLink
+
+    '''<summary>
+    '''pnContent control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents pnContent As Global.System.Web.UI.WebControls.Panel
+
+    '''<summary>
+    '''pnData control.
+>>>>>>> 18d4d6519a022eb1d3b8c8fbb42c99f3cf78e2ce
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+<<<<<<< HEAD
     Protected WithEvents lbCountry As Global.System.Web.UI.WebControls.Label
+=======
+    Protected WithEvents pnData As Global.System.Web.UI.WebControls.Panel
+>>>>>>> 18d4d6519a022eb1d3b8c8fbb42c99f3cf78e2ce
 
     '''<summary>
     '''Label3 control.
@@ -50,15 +130,6 @@ Partial Public Class About
     Protected WithEvents lbBustype As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''lbBustypeSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbBustypeSP As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''ddlBustype control.
     '''</summary>
     '''<remarks>
@@ -77,15 +148,6 @@ Partial Public Class About
     Protected WithEvents lbTime As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''lbTimeSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbTimeSP As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''ddlTime control.
     '''</summary>
     '''<remarks>
@@ -102,15 +164,6 @@ Partial Public Class About
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lbDate As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''lbDateSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbDateSP As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''btnOK control.

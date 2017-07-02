@@ -38,7 +38,7 @@
                 <asp:Label ID="lbTime" runat="server" Text="เวลาที่ออกเดินทาง"></asp:Label>&nbsp;&nbsp;&nbsp;
                 <asp:Label ID="lbTimeSP" runat="server" Text=":"></asp:Label>
                 <div style="margin:-30px 150px;">
-                    <input size="10" style="width:150px;" type="text" value="2012-06-15 14:45" readonly="readonly" class="form_datetime">
+                    <input size="6" style="width:150px;" type="text" value="2012-06-15 14:45" readonly="readonly" class="form_datetime">
                     <script type="text/javascript">
                         $(".form_datetime").datetimepicker({ format: 'yyyy-mm-dd hh:ii' });
                     </script>

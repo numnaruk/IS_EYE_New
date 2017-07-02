@@ -14,13 +14,13 @@ Option Explicit On
 Partial Public Class Information
 
     '''<summary>
-    '''form1 control.
+    '''Page2 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+    Protected WithEvents Page2 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
     '''HyperLink1 control.
@@ -77,22 +77,22 @@ Partial Public Class Information
     Protected WithEvents HyperLink6 As Global.System.Web.UI.WebControls.HyperLink
 
     '''<summary>
-    '''Panel1 control.
+    '''pnContent control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Panel1 As Global.System.Web.UI.WebControls.Panel
+    Protected WithEvents pnContent As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
-    '''Panel2 control.
+    '''pnData control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Panel2 As Global.System.Web.UI.WebControls.Panel
+    Protected WithEvents pnData As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''lbName control.
@@ -102,15 +102,6 @@ Partial Public Class Information
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lbName As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''lbNameSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbNameSP As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''txbName control.
@@ -131,15 +122,6 @@ Partial Public Class Information
     Protected WithEvents lbSurename As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''lbSurenameSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbSurenameSP As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''txbSurename control.
     '''</summary>
     '''<remarks>
@@ -156,15 +138,6 @@ Partial Public Class Information
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lbGender As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''lbGenderSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbGenderSP As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''rbMale control.
@@ -192,15 +165,6 @@ Partial Public Class Information
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lbEmail As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''lbEmailSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbEmailSP As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''txbEmail control.

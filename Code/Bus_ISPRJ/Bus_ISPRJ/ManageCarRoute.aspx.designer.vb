@@ -14,13 +14,13 @@ Option Explicit On
 Partial Public Class ManageCarRoute
 
     '''<summary>
-    '''form1 control.
+    '''Page3 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+    Protected WithEvents Page3 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
     '''HyperLink1 control.
@@ -77,22 +77,22 @@ Partial Public Class ManageCarRoute
     Protected WithEvents HyperLink6 As Global.System.Web.UI.WebControls.HyperLink
 
     '''<summary>
-    '''Panel1 control.
+    '''pnContent control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Panel1 As Global.System.Web.UI.WebControls.Panel
+    Protected WithEvents pnContent As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
-    '''Panel2 control.
+    '''pnData control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Panel2 As Global.System.Web.UI.WebControls.Panel
+    Protected WithEvents pnData As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''lbZone control.
@@ -104,22 +104,13 @@ Partial Public Class ManageCarRoute
     Protected WithEvents lbZone As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''lbZoneSP control.
+    '''ddlZone control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents lbZoneSP As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''DropDownList1 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents DropDownList1 As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents ddlZone As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''lbRoute control.
@@ -131,22 +122,13 @@ Partial Public Class ManageCarRoute
     Protected WithEvents lbRoute As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''lbRouteSP control.
+    '''txbRoute control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents lbRouteSP As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''txbName control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents txbName As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txbRoute As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''lbCountry control.
@@ -158,15 +140,6 @@ Partial Public Class ManageCarRoute
     Protected WithEvents lbCountry As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''lbCountrySP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbCountrySP As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''ddlCountry control.
     '''</summary>
     '''<remarks>
@@ -176,31 +149,22 @@ Partial Public Class ManageCarRoute
     Protected WithEvents ddlCountry As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''Label1 control.
+    '''lbNumber control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Label1 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lbNumber As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''Label2 control.
+    '''txbNumber control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Label2 As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''Textbox1 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents Textbox1 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txbNumber As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''btnOK1 control.
@@ -210,6 +174,15 @@ Partial Public Class ManageCarRoute
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents btnOK1 As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''lbData control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lbData As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''lvRoute control.

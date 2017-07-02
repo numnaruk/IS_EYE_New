@@ -14,13 +14,13 @@ Option Explicit On
 Partial Public Class CheckNoTicket
 
     '''<summary>
-    '''form1 control.
+    '''page5 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+    Protected WithEvents page5 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
     '''HyperLink1 control.
@@ -77,40 +77,31 @@ Partial Public Class CheckNoTicket
     Protected WithEvents HyperLink6 As Global.System.Web.UI.WebControls.HyperLink
 
     '''<summary>
-    '''Panel1 control.
+    '''pnContent control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Panel1 As Global.System.Web.UI.WebControls.Panel
+    Protected WithEvents pnContent As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
-    '''Panel2 control.
+    '''pnData control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Panel2 As Global.System.Web.UI.WebControls.Panel
+    Protected WithEvents pnData As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
-    '''lbName control.
+    '''lbData control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents lbName As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''lbNameSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbNameSP As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lbData As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''lvTicket control.
@@ -131,20 +122,29 @@ Partial Public Class CheckNoTicket
     Protected WithEvents btnOK As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''lbSurename control.
+    '''lbRemark control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents lbSurename As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lbRemark As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''Label1 control.
+    '''lbRemark1 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Label1 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lbRemark1 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''lbRemark2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lbRemark2 As Global.System.Web.UI.WebControls.Label
 End Class
