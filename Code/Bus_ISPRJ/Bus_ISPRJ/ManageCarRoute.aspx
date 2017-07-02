@@ -26,7 +26,7 @@
     <div>
         <asp:Panel ID="Panel2" runat="server" Height="480px" BackColor="LightGray">
             <div style="padding:10px 10px 10px 40px;">
-                <h3>เข้าข้อมูลจัดการเส้นทางรถ</h3>
+                <h3>ข้อมูลการจัดการเส้นทางรถ</h3>
             </div>
             
             <div style="background-color:LightBlue; padding:10px 10px 10px 10px; width:641px; margin-left:100px">

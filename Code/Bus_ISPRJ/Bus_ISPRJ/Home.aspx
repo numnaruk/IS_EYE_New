@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+  <link rel="stylesheet" href="http://localhost:49415/code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
   <script src="//code.jquery.com/jquery-1.12.4.js"></script>
   <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 </head>
@@ -20,7 +20,7 @@
 
         <asp:Panel ID="Panel1" runat="server" Height="139px" BackColor="LightBlue">
             <div style="padding:10px 10px 10px 10px;">
-                <h1>เว็บที่จะช่วยคุณวางแผนการเดินทางในช่วงเทศกาลได้ง่ายๆ</h1>
+                <h1>เว็บที่จะช่วยคุณวางแผนการเดินทางในช่วงเทศกาลได้ง่ายๆ ...</h1>
                 <p>ท่านสามารถเลือกวันที่ เวลา จุดหมายปลายทาง และประเภทรถที่ต้องการได้</p>
             </div>
         </asp:Panel>
@@ -34,8 +34,9 @@
             <div style="background-color:white; padding:10px 10px 10px 10px; width:480px; margin-left:100px ">
                     
                 <div style="padding-top:10px;">
-                    <asp:Label ID="lbCountry" runat="server" Text="จังหวัดปลายทาง"></asp:Label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:Label ID="lbCountrySP" runat="server" Text=":"></asp:Label>&nbsp;&nbsp;
+                    <asp:Label ID="lbCountry" runat="server" Text="จังหวัดปลายทาง"></asp:Label>
+                </div>
+                <div style="padding-top:10px; margin-left:150px; margin-top:-32px;">
                     <asp:DropDownList ID="ddlCountry" runat="server" Height="20px" Width="130px"></asp:DropDownList>
                 </div>
                 <div style="padding-top:10px;">
