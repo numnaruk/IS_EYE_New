@@ -14,13 +14,13 @@ Option Explicit On
 Partial Public Class WebForm1
 
     '''<summary>
-    '''form1 control.
+    '''Page1 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+    Protected WithEvents Page1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
     '''HyperLink1 control.
@@ -77,22 +77,22 @@ Partial Public Class WebForm1
     Protected WithEvents HyperLink6 As Global.System.Web.UI.WebControls.HyperLink
 
     '''<summary>
-    '''Panel1 control.
+    '''pnContent control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Panel1 As Global.System.Web.UI.WebControls.Panel
+    Protected WithEvents pnContent As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
-    '''Panel2 control.
+    '''pnData control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents Panel2 As Global.System.Web.UI.WebControls.Panel
+    Protected WithEvents pnData As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''lbCountry control.
@@ -122,15 +122,6 @@ Partial Public Class WebForm1
     Protected WithEvents lbBustype As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''lbBustypeSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbBustypeSP As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''ddlBustype control.
     '''</summary>
     '''<remarks>
@@ -149,15 +140,6 @@ Partial Public Class WebForm1
     Protected WithEvents lbTime As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''lbTimeSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbTimeSP As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''ddlTime control.
     '''</summary>
     '''<remarks>
@@ -174,15 +156,6 @@ Partial Public Class WebForm1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lbDate As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''lbDateSP control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbDateSP As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''btnOK control.
